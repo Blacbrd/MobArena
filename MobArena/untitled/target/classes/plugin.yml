@@ -1,0 +1,12 @@
+name: MobArena
+version: '1.0-SNAPSHOT'
+main: me.blacbrd123.untitled.MobArena
+api-version: '1.20'
+commands:
+  startWave:
+    description: Lets you pick a kit and start a mob wave
+    usage: /<command>
+  spawnMobs:
+    description: Test command
+    usage: /<command>
+

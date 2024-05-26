@@ -1,0 +1,17 @@
+mobs1:
+  - "ZOMBIE:1"
+  - "SKELETON:1"
+mobs2:
+  - "SKELETON:2"
+  - "ZOMBIE:2"
+mobs3:
+  - "SPIDER:1"
+  - "ZOMBIE:2"
+  - "SILVERFISH:1"
+mobs4:
+  - "SILVERFISH:5"
+  - "ZOMBIE:3"
+  - "SKELETON:2"
+  - "SPIDER:1"
+mobs5:
+  - "ZOMBIE:2"
